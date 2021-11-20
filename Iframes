@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Here is a text in an iframe</p>
+
+<iframe src="demo_iframe.htm" style="height:200px;width:300px" title="Iframe Example"></iframe>
+<hr>
+<p>This Iframe doesn't have a border</p>
+
+<iframe src="demo_iframe.htm" style="border:none;" title="Iframe Example"></iframe>
+</body>
+</html>
