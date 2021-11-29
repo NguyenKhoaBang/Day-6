@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<body>
+
+<h1>URL encoding</h1>
+<p>Here is a URL:<a target="_blank" href="https://www.w3schools.com/html/default.asp">
+https://www.w3schools.com/html/default.asp</a></p>
+<p>All url links follow this syntax rule: scheme://prefix.domain:port/path/filename</p>
+<p>URL links can only be sent using the ASCII character set. If a URL contains characters outside the ASCII set, the URL has to be converted.</p>
+
+</body>
+</html>
