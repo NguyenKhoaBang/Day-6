@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Videos in HTML</h2>
+<video width="320" height="240" controls>
+<source src="movie.mp4" type="movie/mp4">
+<source src="movie.ogg" type="movie/ogg">
+</video>
+<hr>
+<p>Video autoplay:</p>
+<video width="320" height="240" autoplay>
+<source src="movie.mp4" type="movie/mp4">
+<source src="movie.ogg" type="movie.ogg">
+</video>
+<hr>
+<p>Videowith muted autoplay:</p>
+<video width="320" height="240" autoplay muted>
+<source src="movie.mp4" type="movie/mp4">
+<source src="movie.ogg" type="movie.ogg">
+</video>
+
+</body>
+</html>
