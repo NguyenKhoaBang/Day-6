@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#para1 {
+  text-align: center;
+  color: red;
+}
+#para2 {
+  text-align: center;
+  color: DodgerBlue;
+}
+</style>
+</head>
+<body>
+<p id="para1">This paragraph is affected by the ID "para1"</p>
+<p id="para2">This paragraph is affected by the ID "para2"</p>
+<p>This is not affected by any ID</p>
+</body>
+</html>
