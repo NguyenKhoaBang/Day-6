@@ -10,7 +10,6 @@ p {
 </head>
 <body>
 <p>This para is styled with CSS</p>
-/* This is a single line comment */
 <p>CSS comments do not show up in the output. HTML comments also don't show up in the output.</p>
 <!-- These paragraphs will be red -->
 </body>
