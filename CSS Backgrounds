@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+    background-color: red;
+}
+
+p {
+    background-color: lightblue;
+}
+
+div {
+    background-color: orange;
+}
+
+h2 {
+    background-color: red;
+    opacity: 0.7
+}
+</style>
+</head>
+<body>
+<h1>CSS background color</h1>
+<hr>
+<div>
+CSS background color
+<p>This paragraph is using CSS background color.</p>
+We are still in the div element.
+</div>
+<hr>
+<h2>CSS Background Color Opacity</h2>
+</body>
+</html>
