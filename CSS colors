@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>CSS colors</h1>
+<p style="background-color:DodgerBlue;"> CSS Background color</p>
+<hr>
+<p style="color:Tomato;">CSS Text color</p>
+<hr>
+<p style="border:2px solid Tomato">CSS Border color</p>
+<hr>
+<p style="background-color:rgba(255, 99, 71, 0.5);">RGBA Color Value</p>
+</body>
+</html>
