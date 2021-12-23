@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.individual {
+ border: 1px solid black;
+             margin-top: 100px;
+             margin-bottom: 25px;
+             margin-left: 50px;
+             margin-right: 75px;
+}
+p.shorthand4 {
+ border: 1px solid black;
+             margin: 20px 30px 40px 50px;
+}             
+p.shorthand3 {
+ border: 1px solid black;
+             margin: 30px 40px 50px;
+}             
+p.shorthand2 {
+ border: 1px solid black;
+             margin: 40px 50px;
+}             
+p.shorthand1 {
+ border: 1px solid black;
+             margin: 50px;
+}             
+div {
+  border: 1px solid red;
+  margin-left: 100px;
+}
+
+p.inherit {
+  margin-left: inherit;
+}
+</style>
+</head>
+<body>
+<h1>CSS Margin</h1>
+<p class="individual">Individual margins</p>
+<hr>
+<p class="shorthand4">Shorthand margins for 4 values</p>
+<hr>
+<p class="shorthand3">Shorthand margins for 3 values</p>
+<hr>
+<p class="shorthand2">Shorthand margins for 2 values</p>
+<hr>
+<p class="shorthand1">Shorthand margins for 1 value</p>
+<hr>
+<div>Inherited margins
+<p>This one inherits the margin from the DIV</p>
+</div>
+</body>
+</html>
