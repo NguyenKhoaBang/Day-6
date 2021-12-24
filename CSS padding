@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<style>
 p.shorthand4 {
  border: 1px solid black;
              margin: 20px 30px 40px 50px;
@@ -21,7 +22,8 @@ div.ex1 {
 width: 300px
 border: 1px solid black;
              margin: 50px;
-}             
+}     
+</style>
 </head>
 <body>
 <h1>CSS Paddings</p>
