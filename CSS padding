@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+p.shorthand4 {
+ border: 1px solid black;
+             margin: 20px 30px 40px 50px;
+}      
+p.shorthand3 {
+ border: 1px solid black;
+             margin: 30px 40px 50px;
+}      
+p.shorthand2 {
+ border: 1px solid black;
+             margin: 40px 50px;
+}      
+p.shorthand1 {
+ border: 1px solid black;
+             margin: 50px;
+}      
+div.ex1 {
+width: 300px
+border: 1px solid black;
+             margin: 50px;
+}             
+</head>
+<body>
+<h1>CSS Paddings</p>
+<p class="shorthand4">Shorthand paddings for 4</p>
+<p class="shorthand3">Shorthand paddings for 3</p>
+<p class="shorthand2">Shorthand paddings for 2</p>
+<p class="shorthand1">Shorthand paddings for 1</p>
+<div>The width of this div is 350px</div>
+</body>
+</html>
