@@ -17,6 +17,7 @@ div.ex2 {
 <body>
 <h1>CSS height and width</h1>
 <div class="ex1">Setting height and width of a div</div>
+<hr>
 <div class="ex2">Setting height and maximum width of a div</div>
 </body>
 </html>
