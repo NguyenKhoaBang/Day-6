@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.uppercase {
+  text-transform: uppercase
+}  
+p.lowercase {
+  text-transform: lowercase
+} 
+p.capitalized {
+  text-transform: capitalize
+} 
+</style>
+</head>
+<body>
+<h1>Using the text-transform property in CSS.</h1>
+<p class="uppercase">This text is written in uppercase.</p>
+<p class="lowercase">This text is written in lowercase.</p>
+<p class="capitalized">This text is capitalized.</p>
+</body>
+</html>
