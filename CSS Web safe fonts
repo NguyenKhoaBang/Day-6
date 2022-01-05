@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.Arial {
+font-family: Arial, Verdana, sans-serif;
+}
+p.Verdana {
+font-family: Verdana, Tahoma, sans-serif;
+}
+p.Tahoma {
+font-family: Tahoma, Verdana, sans-serif;
+}
+p.Times New Roman {
+font-family: Times New Roman, Verdana, serif;
+}
+</style>
+</head>
+<body>
+
+<h1>CSS Fallback Fonts</h1>
+
+<p>Best websafe fonts:
+<br>
+<p class="Arial">Arial (sans-serif)</p>
+<hr>
+<p class="Verdana">Verdana (sans-serif)</p>
+<hr>
+<p class="Tahoma">Tahoma (sans-serif)</p>
+<hr>
+<p class="Times New Roman">Times New Roman (serif)</p>
+
+</body>
+</html>
