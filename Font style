@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.italic {
+   font-style: italic;
+}
+p.oblique {
+   font-style: oblique;
+}
+p.bold {
+  font-weight: bold;
+}
+p.small {
+  font-variant: small-caps;
+}
+</style>
+</head>
+<body>
+<h1>CSS Text styles</h1>
+<p>This is a normal paragraph.</p>
+<hr>
+<p class="italic">This is a italic paragraph.</p>
+<hr>
+<p class="oblique">This is a oblique paragraph.</p>
+<hr>
+<p class="bold">This is a bold paragraph.</p>
+<hr>
+<p class="small">This is a small caps paragraph.</p>
+</body>
+</html>
