@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+</style>
+</head>
+<body>
+<h1>CSS Link</h1>
+<p><b>This is a link</b>:<a href="default.asp" target="_blank">The link/a></p>
+</body>
+</html>
