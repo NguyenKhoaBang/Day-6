@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ol {
+  background: #ff9999;
+}
+
+ul {
+  background: #3399ff;
+}
+
+ol li {
+  background: #ffe5e5;
+  margin-left: 35px;
+}
+
+ul li {
+  background: #cce5ff;
+}
+</style>
+</head>
+<body>
+<h1>CSS lists</h1>
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ol>
+<hr>
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+</body>
+</html>
