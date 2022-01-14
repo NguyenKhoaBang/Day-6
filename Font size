@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  font-size: 40px;
+}
+h2 {
+  font-size: 30px;
+}
+p {
+  font-size: 15px;
+}
+</style>
+</head>
+<body>
+<h1>CSS Font Style</h1>
+<h2>The font size is edited by pixels</h2>
+<p>This is a paragraph with 15 pixel letters</p>
+</body>
+</html>
