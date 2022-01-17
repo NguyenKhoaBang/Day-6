@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  width: 100px;
+}
+th {
+   height: 50px;
+}   
+</style>
+</head>
+<body>
+<h1>CSS Table Size</h1>
+<p>This is a table</p>
+<table>
+  <tr>
+    <th>Random.</th>
+    <th>Random.</th>
+  </tr>
+  <tr>
+    <td>Random.</td>
+    <td>Random.</td>
+  </tr>
+</table>
+</body>
+</html>
