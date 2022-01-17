@@ -13,7 +13,7 @@ table {
 </style>
 </head>
 <body>
-<h1>CSS Tables</h1>
+<h1>CSS Table Borders</h1>
 <p>This is a table</p>
 <table>
   <tr>
