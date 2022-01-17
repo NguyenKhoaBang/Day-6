@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+th, td {
+  border: 1px solid black;
+}
+table {
+  width: 100%;
+  border-collapse: collapse
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+<h1>CSS Tables</h1>
+<p>This is a table</p>
+<table>
+  <tr>
+    <th>This is random.</th>
+    <th>This is random.</th>
+  </tr>
+  <tr>
+    <td>This is random.</td>
+    <td>This is random.</td>
+  </tr>
+  <tr>
+    <td>This is random.</td>
+    <td>This is random.</td>
+  </tr>
+</table>
+</body>
+</html>
