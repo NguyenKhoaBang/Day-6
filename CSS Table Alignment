@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td.a {
+  text-align: left;
+}
+
+td.b {
+  text-align: center;
+}
+</style>
+</head>
+<body>
+<h1>CSS Table Alignment</h1>
+<p>This is a table</p>
+<table>
+  <tr class="a">
+    <th>a1</th>
+    <th>b1</th>
+    <th>c1</th>
+  </tr>
+  <tr class="b">
+    <td>a2</td>
+    <td>b2</td>
+    <td>c2</td>
+  </tr>
+</table>
+</body>
+</html>
