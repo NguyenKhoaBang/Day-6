@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img {
+  float: left;
+}
+</style>
+</head>
+<body>
+<h1>Float</h1>
+<p><img src="pineapple.jpg" alt="Pineapple" style="width:170px;height:170px;margin-right:15px;">
+This is just random text. This is just random text.This is just random text.This is just random text.This is just random text.This is just random text.This is just random text. This is just random text.This is just random text.This is just random text.This is just random text.This is just random text.This is just random text. This is just random text.This is just random text.This is just random text.This is just random text.This is just random text.
+</p>
+</body>
+</html>
