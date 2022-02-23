@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p::first-letter {
+  color: #ff0000;
+  font-size: xx-large;
+}
+p::first-line {
+  color: #0000ff;
+  font-size: small-caps;
+}
+</style>
+</head>
+<body>
+<h1>CSS Pseudo-elements</h1>
+<p>This text uses the first line and letter pseudo-element to create a special effect.Some more text. And even more, and more, and more, and more, and more, and more, and more, and more, and more, and more, and more, and more.</p>
+</body>
+</html>
