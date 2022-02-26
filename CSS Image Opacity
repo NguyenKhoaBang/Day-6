@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img {
+  opacity: 0.5;
+}
+
+img:hover {
+  opacity: 1.0;
+}
+</style>
+</head>
+<body>
+<h1>CSS Image Opacity</h1>
+<p>Under here is an image</p>
+<img src="img_forest.jpg" alt="Forest" width="170" height="100">
+</body>
+</html>
