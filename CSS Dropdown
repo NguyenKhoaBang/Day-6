@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.dropdown {
+  position: relative;
+  display: inline-block;
+}  
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f00fff0f;
+  min-width: 160px; 
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+</style>
+</head>
+<body>
+<h1>CSS Dropdown</h1>
+<p>Hover the mouse above the text below.</p>
+
+<div class="dropdown">
+  <span>Hover over here!</span>
+  <div class="dropdown-content">
+  <p>This is dropdown text.</p>
+  </div>
+</div>
+</body>
+</html>
