@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#home {
+  width: 46px;
+  height: 44px;
+  background: url(img_navsprites.gif) 0 0;
+}
+</style>
+</head>
+<body>
+<h1>CSS Image Sprites</h1>
+<p>Under here is an image sprite.</p>
+<img id="home" src="img_trans.gif" width="1" height="1">
+</body>
+</html>
