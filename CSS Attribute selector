@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<head>
+<style>
+a[target=_blank] {
+  background-color: yellow;
+}
+</style>
+</head>
+<body>
+<h1>CSS Attribute Selector</h1>
+<p>The link with the target will get yellow background.</p>
+<a href="https://www.w3schools.com">w3schools.com</a>
+<a href="http://www.disney.com" target="_blank">disney.com</a>
+</body>
+</html>
