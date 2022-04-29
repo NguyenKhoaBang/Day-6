@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  counter-reset: section;
+}
+
+h2::before {
+  counter-increment: section;
+  content: "Section " counter(section) ": ";
+}
+</style>
+</head>
+<body>
+
+<h1>CSS Counters</h1>
+
+<h2>My life</h2>
+<h2>How I have been doing.</h1>
+
+
+</body>
+</html>
