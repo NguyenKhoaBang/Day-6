@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <style>
+  #demo {color: blue;}
+  .test {color: green;}
+  p {color: red;}
+ </style>
+ </head>
+ <body>
+ <h1>CSS Specificity</h1>
+ <p id="demo" class="test" style="color: pink;">
+This is a paragraph.</p>
+<p id="demo" class="test"> This is a paragraph.</p>
+<p class="test"> This is a paragraph.</p>
+<p>This is a paragraph.</p>
+</body>
+</html>
