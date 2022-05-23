@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+</style>
+#rcorners1 {
+  border-radius: 25px;
+  background: url(paper.gif);
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 20px; 
+  width: 200px;
+  height: 150px;  
+}
+</style>
+</head>
+<body>
+<h1>CSS Rounded Corners</h1>
+<p>This is a paragraph.</p>
+<p id="rcorners1";>Rounded Corners!</p>
+</body>
+</html>
